@@ -14,7 +14,7 @@ html, body{
 #nav{
     height: 100px;
     width: 100%;
-  //  background-color: red;
+ 
     display: flex;
     align-items: center;
     justify-content: end;
@@ -22,7 +22,6 @@ html, body{
     padding: 0 30px;
 }
 #nav h4{
-  //  color: white;
     font-size: 20px;
     cursor: pointer;
     font-weight: 600;
@@ -35,4 +34,27 @@ html, body{
     border-radius: 50%;
     font-size: 25px;
     cursor: pointer;
+}
+
+#center{
+    width: 100%;
+    padding: 40px 80px;
+}
+#center h1{
+    font-size: 80px;
+    font-weight: 400;
+    line-height: 90px;
+}
+#center-in{
+    height: 200px;
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+#center-in p{
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 300;
+    color: #555;
 }

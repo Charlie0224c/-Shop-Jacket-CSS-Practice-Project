@@ -14,7 +14,7 @@ A responsive shop jacket product page built with HTML &amp; CSS 🧥
 
 ## 📌 About the Project
 
-**Shop Jacket** is a frontend practice project built using **HTML** and **CSS**. The design is inspired by a stunning jacket product page from [Dribbble by Remon](https://dribbble.com/), recreated as a hands-on exercise to apply core CSS concepts covered in the **Frontend Domination** course by instructor **Sarthak Sharma** at **Sheryians Coding School**.
+**Shop Jacket** is a frontend practice project built using **HTML** and **CSS**. The design is inspired by a stunning jacket product page from [Dribbble by Remon](https://dribbble.com), recreated as a hands-on exercise to apply core CSS concepts covered in the **Frontend Domination** course by instructor **Sarthak Sharma** at **Sheryians Coding School**.
 
 This project focuses on translating a real-world design into clean, structured HTML and CSS code — one of the core skills of a frontend developer.
 
@@ -88,7 +88,7 @@ To view this project locally:
 
 ## 🙏 Acknowledgements
 
-- **Design inspiration**: [Remon on Dribbble](https://dribbble.com/remonleijtens/)
+- **Design inspiration**: [Remon on Dribbble](https://dribbble.com/remonleijtens)
 - **Course**: [Frontend Domination — Create Anything with Code](https://www.sheryians.com)
 - **Instructor**: Sarthak Sharma, Sheryians Coding School
 

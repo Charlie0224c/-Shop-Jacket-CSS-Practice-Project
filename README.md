@@ -88,7 +88,7 @@ To view this project locally:
 
 ## 🙏 Acknowledgements
 
-- **Design inspiration**: [Remon on Dribbble](https://dribbble.com/)
+- **Design inspiration**: [Remon on Dribbble](https://dribbble.com/remonleijtens/)
 - **Course**: [Frontend Domination — Create Anything with Code](https://www.sheryians.com)
 - **Instructor**: Sarthak Sharma, Sheryians Coding School
 

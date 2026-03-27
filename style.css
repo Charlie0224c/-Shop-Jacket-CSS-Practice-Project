@@ -41,7 +41,7 @@ html, body{
     padding: 0px 80px;
 }
 #center h1{
-    font-size: 75px;
+    font-size: 4vw;
     font-weight: 400;
     line-height: 80px;
 }
@@ -56,7 +56,7 @@ html, body{
     font-size: 22px;
     line-height: 32px;
     font-weight: 300;
-    color: #555;
+    
 }
 #right{
     width: 20%;
@@ -95,4 +95,90 @@ html, body{
     background-image: url(https://plus.unsplash.com/premium_photo-1683121231638-4100d7f6deb2?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
     background-size: cover;
     background-position: 0 30%;
+}
+
+@media (min-width: 0px) and (max-width: 575px){
+    #nav{
+    height: 60px;
+    width: 100%;
+ 
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 30px;
+    padding: 0 10px;
+    }
+    #nav h4{
+    font-size: 15px;
+    cursor: pointer;
+    font-weight: 600;
+
+}
+    #nav i{
+    font-size: 15.5px;
+    font-weight: 100;
+    background-color: black;
+    color: white;
+    padding: 8px;
+    border-radius: 50%;
+    font-size: 25px;
+    cursor: pointer;
+    }
+    
+#center{
+    width: 100%;
+    padding: 0px 20px;
+    margin-top: 30px;
+    height: 450px;
+}
+#center h1{
+    font-size: 46.5px;
+    font-weight: 300;
+    line-height: 60px;
+    margin-bottom: 25px;
+}
+#center-in{
+    
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+#center-in p{
+    font-size: 15px;
+    line-height: 22px;
+    font-weight: 300;
+    margin-bottom: 25px;
+    
+}
+#right{
+    width: 100%;
+    padding: 0%;
+}
+.elem{
+    padding: 10px 0;
+    border-top: 2px solid #000;
+
+}
+.elem a{
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+.elem i{
+    font-size: 25px;
+    
+   
+}
+.elem:hover a{
+    text-decoration: underline;
+}
+.elem:hover i{
+    opacity: 1;
+}
+.elem:hover{
+    background-color: whitesmoke;
+}
 }

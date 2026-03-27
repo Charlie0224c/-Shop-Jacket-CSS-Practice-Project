@@ -50,9 +50,7 @@ shop-jacket/
 │
 ├── index.html       # Main HTML file
 ├── style.css        # Main CSS stylesheet
-└── assets/          # Images and other assets
-    └── ...
-```
+
 
 ---
 

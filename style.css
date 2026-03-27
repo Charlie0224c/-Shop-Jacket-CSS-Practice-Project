@@ -38,17 +38,17 @@ html, body{
 
 #center{
     width: 100%;
-    padding: 40px 80px;
+    padding: 0px 80px;
 }
 #center h1{
-    font-size: 80px;
+    font-size: 75px;
     font-weight: 400;
-    line-height: 90px;
+    line-height: 80px;
 }
 #center-in{
     height: 200px;
     width: 100%;
-    margin-top: 50px;
+    margin-top: 30px;
     display: flex;
     justify-content: space-between;
 }
@@ -57,4 +57,42 @@ html, body{
     line-height: 32px;
     font-weight: 300;
     color: #555;
+}
+#right{
+    width: 20%;
+}
+.elem{
+    padding: 13px 0;
+    border-top: 2px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.elem a{
+    color: #000;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+}
+.elem i{
+    font-size: 25px;
+    
+    opacity: 0;
+}
+.elem:hover a{
+    text-decoration: underline;
+}
+.elem:hover i{
+    opacity: 1;
+}
+.elem:hover{
+    background-color: whitesmoke;
+}
+#bottom{
+    height: 40%;
+    width: 100%;
+    background-image: url(https://plus.unsplash.com/premium_photo-1683121231638-4100d7f6deb2?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: 0 30%;
 }

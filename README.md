@@ -7,6 +7,7 @@ A responsive shop jacket product page built with HTML &amp; CSS 🧥
 ---
 
 ## 📸 Preview
+<img width="1895" height="903" alt="image" src="https://github.com/user-attachments/assets/5fa6599e-0023-4fe5-afb5-253271d6dfa0" />
 
 
 
